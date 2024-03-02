@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='wordleTryBetter.gif' title='Video Walkthrough' width='20dp' alt='Video Walkthrough' />
 
-<!-- LiceCap! -->
+<!--LiceCap! -->
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
