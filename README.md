@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='wordleTry.gif' title='Video Walkthrough' width='20dp' alt='Video Walkthrough' />
+<img src='wordleTryBetter.gif' title='Video Walkthrough' width='20dp' alt='Video Walkthrough' />
 
 <!-- LiceCap! -->
 GIF created with ...  
